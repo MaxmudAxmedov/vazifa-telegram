@@ -12,21 +12,15 @@ html {
 
 
 body {
-	height: 100%;
-	display: flex;
-	flex-direction: column;
-	font-family:  'Arial', 'sans-serif';
+	font-family: 'Roboto', sans-serif;
+  font-style: normal;
 	margin: 0;
 	padding: 0;
+	background-color: #CFDDE8;
 }
 
 img {
-	max-width: 100%;
-	height: auto;
 	vertical-align: middle;
   object-fit: cover;
 }
 
-.main {
-	flex-grow: 1;
-}
