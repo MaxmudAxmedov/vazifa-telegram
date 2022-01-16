@@ -104,8 +104,6 @@
 
 .message__right{
   width: 275px;
-  max-width: 275px;
-  min-width: 175px;
   background: #E6EDF6;
   border-radius: 1px;
   padding: 9px 50px 11px 6px;
@@ -123,6 +121,8 @@
 }
 .message__red{
   width: 193px;
+  max-width: 275px;
+  min-width: 75px;
   margin-left: auto;
   background-color: #FFC2C1;
   padding: 9px 10px 11px ;
